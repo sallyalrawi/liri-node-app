@@ -1,6 +1,5 @@
 // console.log('this is loaded');
 
-var spotify = new Spotify(keys.spotify);
 
  
 exports.spotify = {
