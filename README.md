@@ -7,3 +7,6 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 -HERE IS SCREENSHOT OF THE OUTPUTS:
 ![artist](/images/artist.png)
+![movie](/images/movie.png)
+![song1](/images/song1.png)
+![song2](/images/song2.png)
